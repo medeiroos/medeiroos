@@ -4,7 +4,7 @@
 ### MINHAS REDES SOCIAIS 👇
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-medeiros-096546238/)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medeiroos)
-[![DIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://web.dio.me/users/gsmedeiros07)
+[![DIO](https://i.imgur.com/TpKeLO0.png)](https://web.dio.me/users/gsmedeiros07)
 [![DIO](https://i.imgur.com/haAdHtc.png)](https://www.postman.com/medeiroos)
 
 ![MEU STATUS](https://github-readme-stats.vercel.app/api?username=medeiroos&theme=blue-green)
