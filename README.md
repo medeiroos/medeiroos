@@ -7,9 +7,9 @@
 [![DIO](https://i.imgur.com/TpKeLO0.png)](https://web.dio.me/users/gsmedeiros07)
 [![DIO](https://i.imgur.com/haAdHtc.png)](https://www.postman.com/medeiroos)
 
-![MEU STATUS](https://github-readme-stats.vercel.app/api?username=medeiroos&theme=blue-green)
+![MEU STATUS](https://github-readme-stats.vercel.app/api?username=medeiroos&theme=vision-friendly-dark)
 <br><br>
-![MEU STATUS2](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroos&theme=blue-green)
+![MEU STATUS2](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroos&theme=vision-friendly-dark)
 <br>
 ### TECNOLOGIAS QUE USO
 <div style="display: inline_block"><br/>
