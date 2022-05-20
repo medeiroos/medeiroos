@@ -24,9 +24,4 @@
 <img align = "center" alt= "SQLite" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img align = "center" alt= "JSON" src= "https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 <img align = "center" alt= "Flask" src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<br/>
-
-  ![Snake animation](https://github.com/medeiroos/medeiroos/blob/output/github-contribution-grid-snake.svg)
-
-  
-</div>
+</div><br>
