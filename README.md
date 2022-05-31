@@ -1,6 +1,3 @@
-<div align="center">
-
-
 ## Olá, Sou o Gabriel Medeiros. 👋
 * Tenho 20 anos
 * Moro em Osasco/SP
