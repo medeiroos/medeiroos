@@ -1,23 +1,31 @@
-## Olá, Sou o Gabriel Medeiros. 👋
-* Tenho 20 anos
-* Moro em Osasco/SP
-* Atualmente estou me especializando cada vez mais em Python
-### MINHAS REDES SOCIAIS 👇.
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-medeiros-096546238/)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medeiroos)
-[![DIO](https://i.imgur.com/TpKeLO0.png)](https://web.dio.me/users/gsmedeiros07)
-[![DIO](https://i.imgur.com/haAdHtc.png)](https://www.postman.com/medeiroos)
+## Hi, I'm Gabriel Medeiros 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-medeiroos&style=flat-square&color=grey" alt="Profile views" /> </p>
 
-![MEU STATUS](https://github-readme-stats.vercel.app/api?username=medeiroos&theme=vision-friendly-dark)
-<br>
-![MEU STATUS2](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroos&theme=vision-friendly-dark)
-<br>
-### TECNOLOGIAS QUE USO 💻.
-<div style="display: inline_block"><br/>
-<img align = "center" alt= "Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align = "center" alt= "Html" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align = "center" alt= "django" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align = "center" alt= "MYSQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align = "center" alt= "SQLite" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img align = "center" alt= "Flask" src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</div><br>
+- 🤓 I am currently looking for my first job in the technology field.
+- 💻 Full-Stack Developer
+- 🤔 Ask me about my technologies
+- 🎮 Fun Fact: I like to play Counter-Strike and FIFA
+
+## 👨‍💻 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/SQLite-black.svg?style=for-the-badge&logo=sqlite&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/PYTHON-black.svg?style=for-the-badge&logo=python&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/angular-black.svg?style=for-the-badge&logo=angular&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
+</p>
+
+## 🙋‍♂️ Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/gabriel-medeiros-096546238/"><img src="https://img.shields.io/badge/linkedin-black.svg?style=for-the-badge&logo=linkedin&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://web.dio.me/users/gsmedeiros07"><img src="https://img.shields.io/badge/digital_innovation_one-black.svg?style=for-the-badge&logo=green" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+## 📈 Github Status
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medeiroos&layout=compact&theme=midnight-purple)
