@@ -9,14 +9,10 @@
 ## 👨‍💻 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/SQLite-black.svg?style=for-the-badge&logo=sqlite&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/PYTHON-black.svg?style=for-the-badge&logo=python&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/django-black.svg?style=for-the-badge&logo=django&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/angular-black.svg?style=for-the-badge&logo=angular&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&logo=node.js&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
 </p>
 
