@@ -1,10 +1,10 @@
 ## Hi, I'm Gabriel Medeiros 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-medeiroos&style=flat-square&color=grey" alt="Profile views" /> </p>
 
-- 🤓 I am currently looking for my first job in the technology field.
+- 🤓 Estou a procura da minha primeira oportunidade.
 - 💻 Full-Stack Developer
-- 🤔 Ask me about my technologies
-- 🎮 Fun Fact: I like to play Counter-Strike and FIFA
+- 🤔 Me pergunte mais sobre minhas tecnologias
+- 🎮 Gosto de jogar Counter-strike, fifa e escutar musica
 
 ## 👨‍💻 Tech Stack
 <p>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 🙋‍♂️ Connect With Me
+## 🙋‍♂️ Conecte-se comigo:
 <p>
 <a href="https://www.linkedin.com/in/gabriel-medeiros-096546238/"><img src="https://img.shields.io/badge/linkedin-black.svg?style=for-the-badge&logo=linkedin&logoColor=blueviolet" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://web.dio.me/users/gsmedeiros07"><img src="https://img.shields.io/badge/digital_innovation_one-black.svg?style=for-the-badge&logo=green" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
